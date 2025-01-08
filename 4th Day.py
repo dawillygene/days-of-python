@@ -65,7 +65,6 @@ print(second_last) # o
 
 
 # Slicing
-
 language = 'Python'
 first_three = language[0:3] # starts at zero index and up to 3 but not include 3
 print(first_three)
